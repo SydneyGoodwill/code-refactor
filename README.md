@@ -10,7 +10,7 @@ The elements should follow a logistic structure independent of styling and posit
 
 ### Screenshot
 
-![screenshot](./assets/images/HW1screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ### URL
 
